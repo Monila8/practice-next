@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#TernJS port file
+db.json
